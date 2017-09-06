@@ -1,0 +1,20 @@
+c:\users\kok wah\documents\visual studio 2017\Projects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csprojResolveAssemblyReference.cache
+c:\users\kok wah\documents\visual studio 2017\Projects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.Properties.Resources.resources
+c:\users\kok wah\documents\visual studio 2017\Projects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csproj.GenerateResource.Cache
+c:\users\kok wah\documents\visual studio 2017\Projects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csproj.CoreCompileInputs.cache
+c:\users\kok wah\documents\visual studio 2017\Projects\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.exe.config
+c:\users\kok wah\documents\visual studio 2017\Projects\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.exe
+c:\users\kok wah\documents\visual studio 2017\Projects\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.pdb
+c:\users\kok wah\documents\visual studio 2017\Projects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.GenerateNumber.resources
+c:\users\kok wah\documents\visual studio 2017\Projects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.exe
+c:\users\kok wah\documents\visual studio 2017\Projects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.pdb
+C:\Users\kok wah\Desktop\Github\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.exe.config
+C:\Users\kok wah\Desktop\Github\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.exe
+C:\Users\kok wah\Desktop\Github\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.pdb
+C:\Users\kok wah\Desktop\Github\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csprojResolveAssemblyReference.cache
+C:\Users\kok wah\Desktop\Github\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.GenerateNumber.resources
+C:\Users\kok wah\Desktop\Github\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.Properties.Resources.resources
+C:\Users\kok wah\Desktop\Github\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csproj.GenerateResource.Cache
+C:\Users\kok wah\Desktop\Github\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\kok wah\Desktop\Github\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.exe
+C:\Users\kok wah\Desktop\Github\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.pdb
